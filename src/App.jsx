@@ -3,6 +3,7 @@ import './App.css'
 import Main from './components/Main'
 import Sidenav from './components/Sidenav'
 import Work from './components/Work'
+import Projects from './components/Projects'
 function App() {
 
 
@@ -11,6 +12,7 @@ function App() {
     <Sidenav/>
     <Main/>
     <Work/>
+    <Projects/>
    </div>
   )
 }
